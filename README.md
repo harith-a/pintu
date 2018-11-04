@@ -1,7 +1,7 @@
 # pintu
 Event Registration System
 
-Prerequisite:
+How to:
 
 1. Download & Install .NET Core SDK for your environment(https://www.microsoft.com/net/download)
 2. Run .NET Core webapi backend:
